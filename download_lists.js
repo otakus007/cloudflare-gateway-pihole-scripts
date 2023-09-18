@@ -31,7 +31,7 @@ const allowlistUrls = [
   // https://local.oisd.nl/extract/commonly_whitelisted.php,
 ];
 const blocklistUrls = [
-  "https://abpvn.com/filter/abpvn-HlLLqf.txt"
+  "https://abpvn.com/filter/abpvn-HlLLqf.txt",
   "https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt",
   "https://raw.githubusercontent.com/nmtrung/FMSF-2.0/master/fmsf_2.0.txt",
   "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
